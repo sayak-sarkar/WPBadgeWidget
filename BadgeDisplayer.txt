@@ -1,0 +1,25 @@
+<a href="http://www.openbadges.org/en-US/"><img src="http://beta.openbadges.org/_badges/1a2506d469373ad59ee6178b531ff798.png" width="64px" alt="Badges 101" /></a>
+
+<a href="http://toolness.github.com/hackasaurus-parable/navigator-badge/"><img src="http://beta.openbadges.org/_badges/cf146ab4834b409cb4f6520a3c494176.png" width="64px" alt="Web Navigator" /></a>
+
+<a href="http://www.codeschool.com/users/140833/badges/121"><img src="http://beta.openbadges.org/_badges/b1dd653c5d73c12a09a1dec7098dbd3b.png" width="64px" alt="Completed Try Git" /></a>
+
+<a href="https://badges.webmaker.org/badge/criteria/open-badgifier"><img src="http://beta.openbadges.org/_badges/a91bd625155663aa60a587c772ac1226.png" width="64px" alt="Open Badgifier" /></a>
+
+<a href="https://badges.webmaker.org/badge/criteria/mozfesticipant"><img src="http://beta.openbadges.org/_badges/a01e2b54af84ee05fce3d8234eb70399.png" width="64px" alt="MozFest Reveler" /></a>
+
+<a href="http://badg.us/en-US/badges/badge/mozilla-reps-at-mozfest"><img src="http://beta.openbadges.org/_badges/bb67fcedbee9151b08e09766e8393605.png" width="64px" alt="MozReps At MozFest" /></a>
+
+<a href="https://badges.webmaker.org/badge/criteria/webmaker-builder"><img src="http://beta.openbadges.org/_badges/7058a0fa410a9bd096cbdc3410384e43.png" width="64px" alt="Webmaker Builder" /></a>
+
+<a href="https://badges.webmaker.org/badge/criteria/mozfestivator"><img src="http://beta.openbadges.org/_badges/29d71f0c8c0048192453770c8e6c55a7.png" width="64px" alt="MozFest Fellow" /></a>
+
+<a href="http://gocodery.com/badge-process/code-libs-badge.php"><img src="http://beta.openbadges.org/_badges/c3fed87f5e427f09f7429b2e8765ab8e.png" width="64px" alt="Codery Code Libs I Badge" /></a>
+
+<a href="http://gocodery.com/badge-process/beauty-badge.php"><img src="http://beta.openbadges.org/_badges/24f0fa02d0fff51a1d131c42d0112c02.png" width="64px" alt="Beauty Badge" /></a>
+
+<a href="http://gocodery.com/badge-process/blogger-badge.php"><img src="http://beta.openbadges.org/_badges/9f50f54e84d7c1f8d8c67d6ba5c7ecc7.png" width="64px" alt="Blogger Badge" /></a>
+
+<a href="http://badg.us/en-US/badges/badge/hacker"><img src="http://beta.openbadges.org/_badges/c73d98d923d760d27d3426f9c3620755.png" width="64px" alt="Hacker" /></a>
+
+<a href="http://gocodery.com/digital-badges/codery-mozfest-badge-bingo-badge.html"><img src="http://beta.openbadges.org/_badges/91de4047fae9eaa9559ae0bb418de2e2.png" width="64px" alt="Badge Bingo MozFest 2012 Badge" /></a>
