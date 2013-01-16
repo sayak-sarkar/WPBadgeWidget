@@ -23,3 +23,5 @@
 <a href="http://badg.us/en-US/badges/badge/hacker"><img src="http://beta.openbadges.org/_badges/c73d98d923d760d27d3426f9c3620755.png" width="64px" alt="Hacker" /></a>
 
 <a href="http://gocodery.com/digital-badges/codery-mozfest-badge-bingo-badge.html"><img src="http://beta.openbadges.org/_badges/91de4047fae9eaa9559ae0bb418de2e2.png" width="64px" alt="Badge Bingo MozFest 2012 Badge" /></a>
+
+<a href="http://badg.us/en-US/badges/badge/i-saw-the-blimp"><img src="http://beta.openbadges.org/_badges/ba2b6b822d7b290318e867ec064366ef.png" width="64px" alt="I saw the blimp" /></a>
