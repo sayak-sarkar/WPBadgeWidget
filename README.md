@@ -12,4 +12,4 @@ HTML Based Simple Code Snippets for Displaying Open Badges using Text widget for
 
 * Files 
  -------
-**BadgeDisplayer.txt:** Currently contains HTML code snippets for all 13 Open Badges.
+**BadgeDisplayer.txt:** Currently contains HTML code snippets for all 14 Open Badges.
