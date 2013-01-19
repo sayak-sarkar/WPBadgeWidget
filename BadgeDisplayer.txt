@@ -4,24 +4,44 @@
 
 <a href="http://www.codeschool.com/users/140833/badges/121"><img src="http://beta.openbadges.org/_badges/b1dd653c5d73c12a09a1dec7098dbd3b.png" width="64px" alt="Completed Try Git" /></a>
 
-<a href="https://badges.webmaker.org/badge/criteria/open-badgifier"><img src="http://beta.openbadges.org/_badges/a91bd625155663aa60a587c772ac1226.png" width="64px" alt="Open Badgifier" /></a>
-
-<a href="https://badges.webmaker.org/badge/criteria/mozfesticipant"><img src="http://beta.openbadges.org/_badges/a01e2b54af84ee05fce3d8234eb70399.png" width="64px" alt="MozFest Reveler" /></a>
-
 <a href="http://badg.us/en-US/badges/badge/mozilla-reps-at-mozfest"><img src="http://beta.openbadges.org/_badges/bb67fcedbee9151b08e09766e8393605.png" width="64px" alt="MozReps At MozFest" /></a>
 
-<a href="https://badges.webmaker.org/badge/criteria/webmaker-builder"><img src="http://beta.openbadges.org/_badges/7058a0fa410a9bd096cbdc3410384e43.png" width="64px" alt="Webmaker Builder" /></a>
-
-<a href="https://badges.webmaker.org/badge/criteria/mozfestivator"><img src="http://beta.openbadges.org/_badges/29d71f0c8c0048192453770c8e6c55a7.png" width="64px" alt="MozFest Fellow" /></a>
+<a href="http://badg.us/en-US/badges/badge/hacker"><img src="http://beta.openbadges.org/_badges/c73d98d923d760d27d3426f9c3620755.png" width="64px" alt="Hacker" /></a>
 
 <a href="http://gocodery.com/badge-process/code-libs-badge.php"><img src="http://beta.openbadges.org/_badges/c3fed87f5e427f09f7429b2e8765ab8e.png" width="64px" alt="Codery Code Libs I Badge" /></a>
 
 <a href="http://gocodery.com/badge-process/beauty-badge.php"><img src="http://beta.openbadges.org/_badges/24f0fa02d0fff51a1d131c42d0112c02.png" width="64px" alt="Beauty Badge" /></a>
 
-<a href="http://gocodery.com/badge-process/blogger-badge.php"><img src="http://beta.openbadges.org/_badges/9f50f54e84d7c1f8d8c67d6ba5c7ecc7.png" width="64px" alt="Blogger Badge" /></a>
-
-<a href="http://badg.us/en-US/badges/badge/hacker"><img src="http://beta.openbadges.org/_badges/c73d98d923d760d27d3426f9c3620755.png" width="64px" alt="Hacker" /></a>
-
 <a href="http://gocodery.com/digital-badges/codery-mozfest-badge-bingo-badge.html"><img src="http://beta.openbadges.org/_badges/91de4047fae9eaa9559ae0bb418de2e2.png" width="64px" alt="Badge Bingo MozFest 2012 Badge" /></a>
 
+<a href="http://gocodery.com/badge-process/blogger-badge.php"><img src="http://beta.openbadges.org/_badges/9f50f54e84d7c1f8d8c67d6ba5c7ecc7.png" width="64px" alt="Blogger Badge" /></a>
+
 <a href="http://badg.us/en-US/badges/badge/i-saw-the-blimp"><img src="http://beta.openbadges.org/_badges/ba2b6b822d7b290318e867ec064366ef.png" width="64px" alt="I saw the blimp" /></a>
+
+<a href="https://badges.webmaker.org/badge/criteria/super-styler"><img src="https://beta.openbadges.org/_badges/5d1edb7369574a883c81346567890e70.png" width="64px" alt="Super Styler" /></a>
+
+<a href="https://badges.webmaker.org/badge/criteria/thimble-projectizer"><img src="https://beta.openbadges.org/_badges/4cd31248faf58cf26c94ece0ea030cb9.png" width="64px" alt="Thimble Projectizer" /></a>
+
+<a href="https://badges.webmaker.org/badge/criteria/open-badgifier"><img src="http://beta.openbadges.org/_badges/a91bd625155663aa60a587c772ac1226.png" width="64px" alt="Open Badgifier" /></a>
+
+<a href="https://badges.webmaker.org/badge/criteria/mozfesticipant"><img src="http://beta.openbadges.org/_badges/a01e2b54af84ee05fce3d8234eb70399.png" width="64px" alt="MozFest Reveler" /></a>
+
+<a href="https://badges.webmaker.org/badge/criteria/webmaker-builder"><img src="http://beta.openbadges.org/_badges/7058a0fa410a9bd096cbdc3410384e43.png" width="64px" alt="Webmaker Builder" /></a>
+
+<a href="https://badges.webmaker.org/badge/criteria/mozfestivator"><img src="http://beta.openbadges.org/_badges/29d71f0c8c0048192453770c8e6c55a7.png" width="64px" alt="MozFest Fellow" /></a>
+
+<a href="https://badges.webmaker.org/badge/criteria/a-lister"><img src="https://beta.openbadges.org/_badges/3862bba23d43881a2730604708645905.png" width="64px" alt="A Lister" /></a>
+
+<a href="https://badges.webmaker.org/badge/criteria/audio-maker"><img src="https://beta.openbadges.org/_badges/8003e80b0bb0c97162e2d166a6da923d.png" width="64px" alt="Audio Maker" /></a>
+
+<a href="https://badges.webmaker.org/badge/criteria/code-whisperer"><img src="https://beta.openbadges.org/_badges/b1f431f1841d5c4b9ac01f3a2c12d670.png" width="64px" alt="Code Whisperer" /></a>
+
+<a href="https://badges.webmaker.org/badge/criteria/div-master"><img src="https://beta.openbadges.org/_badges/3b7060488a1c460c9dcdad02fb22896d.png" width="64px" alt="Div Master" /></a>
+
+<a href="https://badges.webmaker.org/badge/criteria/editor"><img src="https://beta.openbadges.org/_badges/f4205ce14731238e2f94ebdf7fc362cf.png" width="64px" alt="Editor" /></a>
+
+<a href="https://badges.webmaker.org/badge/criteria/hyperlinker"><img src="https://beta.openbadges.org/_badges/a0caaa298a2ab6f33542ffceea080f21.png" width="64px" alt="Hyperlinker" /></a>
+
+<a href="https://badges.webmaker.org/badge/criteria/image-maker"><img src="https://beta.openbadges.org/_badges/9a02b689cd528ed5308b61551f4f6e67.png" width="64px" alt="Image Maker" /></a>
+
+<a href="https://badges.webmaker.org/badge/criteria/media-maker"><img src="https://beta.openbadges.org/_badges/69810bfb7ea8f4593d6f54f3f4b90801.png" width="64px" alt="Media Maker" /></a>
